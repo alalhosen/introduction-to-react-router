@@ -31,10 +31,7 @@ element:<Contact></Contact>
 
 ]
 },
-// {
-//   path:'contact',
-//   element:<Contact></Contact>
-// }
+
 
 ])
 

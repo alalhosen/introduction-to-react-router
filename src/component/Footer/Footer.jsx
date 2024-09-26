@@ -1,12 +1,10 @@
-import Header from "../Header/Header";
 
 const Footer = () => {
     return (
         <div>
-            <Header></Header>
-            <h2>Thank you for visiting our website.</h2>
+            <p><small>Thank you for visiting our website.</small></p>
         </div>
-    );
+    ); 
 };
 
 export default Footer;
