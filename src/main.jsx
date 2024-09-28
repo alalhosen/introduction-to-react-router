@@ -39,6 +39,7 @@ element:<UserDetails></UserDetails>
   },
   {
     path:'/posts',
+    loader: ()=> fetch('https://jsonplaceholder.typicode.com/posts'),
     element:<Posts></Posts>
   }
 
