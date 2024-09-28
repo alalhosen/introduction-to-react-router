@@ -5,6 +5,7 @@ const Posts = () => {
     return (
         <div>
             <h2>Posts: {posts.length}</h2>
+            
         </div>
     );
 };
