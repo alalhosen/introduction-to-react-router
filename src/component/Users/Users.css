@@ -3,3 +3,10 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+
+nav a.active{
+    text-decoration: underline;
+    background-color:aquamarine;
+    padding: 1px;
+    border-radius: 10px;
+}
