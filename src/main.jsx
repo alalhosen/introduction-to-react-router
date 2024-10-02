@@ -50,10 +50,8 @@ element:<UserDetails></UserDetails>
     loader:({params})=>fetch(`https://jsonplaceholder.typicode.com/posts/${params.postId}`),
   element:<PostDetails></PostDetails>
   }
-
 ]
 },
-
 
 ])
 
